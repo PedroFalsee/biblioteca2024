@@ -10,7 +10,7 @@
 <body>
 <div class="container">
 <h1>Gêneros</h1>
-<a href="/genero/insert" class="btn btn-primary">Novo Gênero</a> <table class="table">
+<a href="/genero/insert.jsp" class="btn btn-primary">Novo Gênero</a> <table class="table">
 <tr>
 <th>Id</th>
 <th>Nome</th>
